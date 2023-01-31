@@ -22,3 +22,7 @@ Hi, I'm Bea.
 |     3| Cafe-hopping  |
 
   </details>
+  
+  # hello
+  ## hi
+  ###### goodbye
