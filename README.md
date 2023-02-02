@@ -10,6 +10,4 @@ Why is it always pouring in Tagbilaran City?
 
 ## Sample Code
 
-```
-printf('Hello World.');
-```
+`printf('Hello World.');~`
