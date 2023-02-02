@@ -2,7 +2,7 @@
 
 # Epe's Project
 
-Why is it always pouring in Tagbilaran City?
+This is what this project is for :)
 
 ## Authors
 
