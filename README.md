@@ -14,4 +14,5 @@ Why is it always pouring in Tagbilaran City?
 
 ## How to Install
 
-- Step 1
+- Step 1: Download the file
+- Step 2: Extract the files into a folder.
