@@ -17,8 +17,4 @@ Why is it always pouring in Tagbilaran City?
 - Step 1: Download the file
 - Step 2: Extract the files into a folder.
 
-Hello Goodbye
-
-Good morning
-
-hi
+Ohayo
