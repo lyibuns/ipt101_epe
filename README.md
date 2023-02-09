@@ -22,6 +22,3 @@ Hello Goodbye
 Good morning
 
 hi
-
-- test
-- test 2
